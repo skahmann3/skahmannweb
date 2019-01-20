@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks on Sydney Kahmann</title>
+    <link>/talk/</link>
+    <description>Recent content in Talks on Sydney Kahmann</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0800</lastBuildDate>
+    
+	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>R&amp;D, Attrition and Multiple Imputation in BRDIS</title>
+      <link>/talk/example/</link>
+      <pubDate>Thu, 14 Sep 2017 00:00:00 -0700</pubDate>
+      
+      <guid>/talk/example/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
