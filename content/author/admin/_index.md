@@ -34,5 +34,5 @@ I am a Statistics PhD student at UCLA and earned my BS in Statistics from UCLA i
 
 Since October 2017, I have served as a graduate consultant for the UCLA Statistical Consulting Center. Through this role, I work with a small consulting team to devise and implement tailor-made analysis plans for clients in applied research and product development from the Los Angeles area. 
 
-This fall, I co-founded the Society of Women in Statistics at UCLA. Check out the photos from some of our events below. 
+This fall, I co-founded the Society of Women in Statistics at UCLA. Check out our [website](http://statistics.ucla.edu/) for photos from some of our events. 
 
