@@ -6,10 +6,11 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://skahmann3.github.io`.
-baseurl = "/"
+baseurl = "https://skahmann3.github.io/"
 
 # Title of your site
 title = "Sydney Kahmann"
+description = "Personal Website of Sydney Kahmann"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.

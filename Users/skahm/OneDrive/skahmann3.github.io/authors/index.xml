@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Sydney Kahmann</title>
+    <link>/authors/</link>
+    <description>Recent content in Authors on Sydney Kahmann</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    
+	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>B Smith</title>
+      <link>/authors/b-smith/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/b-smith/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E Crasto</title>
+      <link>/authors/e-crasto/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/e-crasto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J Sanchez</title>
+      <link>/authors/j-sanchez/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 -0700</pubDate>
+      
+      <guid>/authors/j-sanchez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N Wijekoon</title>
+      <link>/authors/n-wijekoon/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/n-wijekoon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NK Neerchal</title>
+      <link>/authors/nk-neerchal/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/nk-neerchal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P Rodriguez</title>
+      <link>/authors/p-rodriguez/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/p-rodriguez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S Kahmann</title>
+      <link>/authors/s-kahmann/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 -0700</pubDate>
+      
+      <guid>/authors/s-kahmann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SK Popuri</title>
+      <link>/authors/sk-popuri/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/sk-popuri/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

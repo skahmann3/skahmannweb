@@ -20,7 +20,7 @@ role: PhD Student in Statistics
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'skahmann at ucla dot edu'
+  link: 'skahmann@ucla.edu'
 - icon: github
   icon_pack: fab
   link: https://github.com/skahmann3
@@ -34,5 +34,5 @@ I am a Statistics PhD student at UCLA and earned my BS in Statistics from UCLA i
 
 Since October 2017, I have served as a graduate consultant for the UCLA Statistical Consulting Center. Through this role, I work with a small consulting team to devise and implement tailor-made analysis plans for clients in applied research and product development from the Los Angeles area. 
 
-This fall, I co-founded the Society of Women in Statistics at UCLA. Check out our [website](http://statistics.ucla.edu/) for photos from some of our events. 
+This fall, I co-founded the Society of Women in Statistics at UCLA. Check out our [website](http://statistics.ucla.edu/groups/sws/) for more information and photos from past events. 
 

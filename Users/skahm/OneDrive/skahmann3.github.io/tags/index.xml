@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Sydney Kahmann</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Sydney Kahmann</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 01 Feb 2017 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Attrition</title>
+      <link>/tags/attrition/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 -0700</pubDate>
+      
+      <guid>/tags/attrition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global Climate Models (GCM)</title>
+      <link>/tags/global-climate-models-gcm/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/global-climate-models-gcm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graphical user interface (GUI)</title>
+      <link>/tags/graphical-user-interface-gui/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/graphical-user-interface-gui/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HadCM3</title>
+      <link>/tags/hadcm3/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/hadcm3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Item Nonresponse</title>
+      <link>/tags/item-nonresponse/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 -0700</pubDate>
+      
+      <guid>/tags/item-nonresponse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MICE</title>
+      <link>/tags/mice/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 -0700</pubDate>
+      
+      <guid>/tags/mice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MIROC5</title>
+      <link>/tags/miroc5/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/miroc5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Missouri River Basin (MRB)</title>
+      <link>/tags/missouri-river-basin-mrb/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/missouri-river-basin-mrb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiple Imputation</title>
+      <link>/tags/multiple-imputation/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 -0700</pubDate>
+      
+      <guid>/tags/multiple-imputation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NCAR-CCSM4</title>
+      <link>/tags/ncar-ccsm4/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/ncar-ccsm4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R&amp;D</title>
+      <link>/tags/rd/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 -0700</pubDate>
+      
+      <guid>/tags/rd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unit Nonresponse</title>
+      <link>/tags/unit-nonresponse/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 -0700</pubDate>
+      
+      <guid>/tags/unit-nonresponse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exploratory data analysis (EDA)</title>
+      <link>/tags/exploratory-data-analysis-eda/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/exploratory-data-analysis-eda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spatio-temporal analysis</title>
+      <link>/tags/spatio-temporal-analysis/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/spatio-temporal-analysis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
