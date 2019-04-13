@@ -30,7 +30,9 @@ social:
 superuser: true
 ---
 
-I am a Statistics PhD student at UCLA and earned my BS in Statistics from UCLA in 2017. I'm currently working on a few projects in causal inference with my advisor, Dr. Erin Hartman, including an equivalence testing R package coming to CRAN in a few months. 
+I am a Statistics PhD student at UCLA and earned my BS in Statistics from UCLA in 2017. As of 2019, I am an NSF Graduate Research Fellow. 
+
+I'm currently working on a few projects in causal inference with my advisor, Dr. Erin Hartman, including an equivalence testing R package coming to CRAN in a few months. 
 
 Since October 2017, I have served as a graduate consultant for the UCLA Statistical Consulting Center. Through this role, I work with a small consulting team to devise and implement tailor-made analysis plans for clients in applied research and product development from the Los Angeles area. 
 
