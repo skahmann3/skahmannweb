@@ -4,7 +4,7 @@ education:
   courses:
   - course: PhD in Statistics
     institution: UCLA
-    year: expected 2022
+    year: expected June 2021
   - course: BS in Statistics
     institution: UCLA
     year: 2017
@@ -30,7 +30,7 @@ social:
 superuser: true
 ---
 
-As a social statistician and data scientist, I'm first and foremost a communicator and storyteller. I leverage data using advanced machine learning and analytics techniques to answer applied problems. In my work as a Statistics PhD student at UCLA, I also develop new methods if existing approaches don't provide a satisfactory answer to the motivating, real-world questions. 
+As a social statistician and data scientist, I'm first and foremost a communicator and storyteller. I leverage data using advanced machine learning and analytics techniques to answer applied problems. In my work as a Statistics PhD student at UCLA, I also develop new methods if existing approaches do not provide a satisfactory answer to the motivating, real-world questions. 
 
 My dissertation research is in causal inference, advised by Dr. Erin Hartman. As of 2019, I am a National Science Foundation Graduate Research Fellow. Currently, I'm both applying existing approaches and developing new methodology to evaluate Los Angeles crime policies as part of larger interdisciplinary research teams of academics, activists, community leaders, and police officers.
 
