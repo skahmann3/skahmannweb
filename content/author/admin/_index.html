@@ -7,6 +7,7 @@
 <meta charset="utf-8" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -268,7 +269,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -342,18 +342,6 @@ summary {
 }
 </style>
 
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
-
 <!-- code folding -->
 
 
@@ -377,9 +365,8 @@ $(document).ready(function () {
 </div>
 
 
-<p>I am a Statistics PhD student at UCLA and earned my BS in Statistics from UCLA in 2017. As of 2019, I am an NSF Graduate Research Fellow. Currently, I’m working on a few projects in causal inference with my advisor, Dr. Erin Hartman, including equivtest, an equivalence testing R package on Github.</p>
-<p>In 2018, I co-founded the Society of Women in Statistics at UCLA. Check out our <a href="http://statistics.ucla.edu/groups/sws/">website</a> for more information and photos from past events.</p>
-<p>From October 2017 - June 2019, I served as a graduate consultant for the UCLA Statistical Consulting Center. Through this role, I worked with a small consulting team to devise and implement tailor-made analysis plans for clients in applied research and product development from the Los Angeles area.</p>
+<p>My dissertation research is in causal inference, advised by Dr. Erin Hartman. Currently, I’m developing new synthetic control methodology to evaluate Los Angeles crime policies as part of interdisciplinary policy evaluation teams. Previously, I developed an R package implementing equivalence versions of statistical tests used to evaluate common causal design assumptions, publicly hosted on Github.</p>
+<p>I’m also passionate about advancing underrepresented groups in STEM. In 2018, I co-founded the Society of Women in Statistics at UCLA, recognized and funded by UCLA and the Statistics Department. I serve as co-president of the organization, managing a leadership board as we host professional events for students, staff, and faculty.</p>
 
 
 
@@ -398,6 +385,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

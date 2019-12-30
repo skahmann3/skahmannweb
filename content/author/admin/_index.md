@@ -34,4 +34,3 @@ My dissertation research is in causal inference, advised by Dr. Erin Hartman. Cu
 
 I'm also passionate about advancing underrepresented groups in STEM. In 2018, I co-founded the Society of Women in Statistics at UCLA, recognized and funded by UCLA and the Statistics Department. I serve as co-president of the organization, managing a leadership board as we host professional events for students, staff, and faculty.
 
-I am currently looking for causal inference, data science, and analytics internships for Summer 2020. Please feel free to reach out if you think I would be a good fit for your team. 
