@@ -6,7 +6,7 @@ exclude_featured: false
 list_format: 3
 publication_type: "-1"
 subtitle: ""
-title: Projects
+title: Research
 weight: 20
 widget: publications
 ---

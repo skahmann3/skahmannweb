@@ -17,7 +17,7 @@ projects:
 - internal-project
 publication: "Technical Report HPCF–2016–12."
 publication_types:
-- "0"
+- "3"
 tags: [Graphical user interface (GUI), Global Climate Models (GCM), Missouri
 River Basin (MRB), spatio-temporal analysis, exploratory data analysis (EDA), MIROC5,
 HadCM3, NCAR-CCSM4]

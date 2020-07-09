@@ -16,7 +16,7 @@ projects:
 - internal-project
 publication: US Census Bureau Center for Economic Studies Paper No. CES-WP-17-13.
 publication_types:
-- "0"
+- "3"
 tags: [Multiple Imputation, R&D, Attrition, Unit Nonresponse, Item Nonresponse, MICE]
 title: R&D, Attrition and Multiple Imputation in BRDIS
 url_pdf: https://poseidon01.ssrn.com/delivery.php?ID=579098091025086114113087012092118126057046084059055038121020119094110122070104124088059057002107022006023125114026094090005009042072002040020070018070106116092093040036045099066030072115084122080072020125009100018064002028066015098095116080095101072&EXT=pdf

@@ -216,7 +216,7 @@ enableGitInfo = false
     #   0 = Simple
     #   1 = Detailed
     #   2 = Stream
-    post_format = 2
+    post_format = 1
 
     # Publication list format.
     #   0 = Simple
@@ -224,13 +224,13 @@ enableGitInfo = false
     #   2 = APA
     #   3 = MLA
     #   4 = Stream
-    publication_format = 4
+    publication_format = 1
 
     # Talk list format.
     #   0 = Simple
     #   1 = Detailed
     #   2 = Stream
-    talk_format = 2
+    talk_format = 1
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -241,17 +241,17 @@ enableGitInfo = false
   align_right = true
 
 [[menu.main]]
-  name = "Home"
+  name = "About"
   url = "#about"
   weight = 1
   
 [[menu.main]]
-  name = "Projects"
+  name = "Research"
   url = "#publications"
   weight = 3
   
 [[menu.main]]
-  name = "Talks"
+  name = "Presentations"
   url = "#talks"
   weight = 4
   
@@ -263,8 +263,8 @@ enableGitInfo = false
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[menu.main]]
-    name = "Resume"
-    url = "files/Sydney Kahmann Resume for Website.pdf"
+    name = "CV"
+    url = "files/SKahmann_CV.pdf"
     weight = 6
 
 # Search.

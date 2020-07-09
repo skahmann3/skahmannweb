@@ -11,11 +11,29 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Impact Evaluation of the LAPD Community Safety Partnership</title>
+      <link>/publication/csp/</link>
+      <pubDate>Tue, 14 Jul 2020 00:00:00 -0700</pubDate>
+      
+      <guid>/publication/csp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact Evaluation of the LAPD Community Safety Partnership</title>
+      <link>/talk/polmeth2020/</link>
+      <pubDate>Tue, 14 Jul 2020 00:00:00 -0700</pubDate>
+      
+      <guid>/talk/polmeth2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>R&amp;D, Attrition and Multiple Imputation in BRDIS</title>
-      <link>/talk/example/</link>
+      <link>/talk/brdis/</link>
       <pubDate>Thu, 14 Sep 2017 00:00:00 -0700</pubDate>
       
-      <guid>/talk/example/</guid>
+      <guid>/talk/brdis/</guid>
       <description></description>
     </item>
     
