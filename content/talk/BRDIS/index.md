@@ -5,8 +5,8 @@ draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2017-09-14T11:30:00
-time_end = 2017-09-14T11:55:00
+#time_start = 2017-09-14T11:30:00
+#time_end = 2017-09-14T11:55:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = []
@@ -30,7 +30,7 @@ featured = false
 tags = []
 
 # Links (optional).
-url_slides = "https://escholarship.org/uc/item/1bx747j2"
+url_pdf = "https://escholarship.org/uc/item/1bx747j2"
 
 # Does the content use math formatting?
 math = true

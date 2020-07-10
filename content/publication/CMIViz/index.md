@@ -22,5 +22,5 @@ tags: [Graphical user interface (GUI), Global Climate Models (GCM), Missouri
 River Basin (MRB), spatio-temporal analysis, exploratory data analysis (EDA), MIROC5,
 HadCM3, NCAR-CCSM4]
 title: Enhanced Data Exploration and Visualization Tool for Large Spatio-Temporal Climate Data
-url_pdf: https://userpages.umbc.edu/~gobbert/papers/REU2016Team2.pdf
+url_pdf: files/REU2016Team2.pdf
 ---

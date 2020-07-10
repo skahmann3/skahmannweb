@@ -16,7 +16,7 @@ name: Sydney Kahmann
 organizations:
 - name: UCLA
   url: ""
-role: PhD Student in Statistics
+role: Ph.D. Student in Statistics
 social:
 - icon: envelope
   icon_pack: fas
@@ -30,5 +30,5 @@ social:
 superuser: true
 ---
 
-I am a UCLA Statistics PhD Student and NSF Graduate Research Fellow. My dissertation research is in causal inference, advised by Dr. Erin Hartman. In 2018, I co-founded the Society of Women in Statistics at UCLA, recognized and funded by UCLA and the Statistics Department. 
+I am a UCLA Statistics Ph.D. Student and NSF Graduate Research Fellow. My dissertation research is in causal inference, advised by Dr. Erin Hartman. In 2018, I co-founded the Society of Women in Statistics at UCLA, recognized and funded by UCLA and the Statistics Department. 
 
