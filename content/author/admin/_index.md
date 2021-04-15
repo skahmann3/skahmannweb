@@ -4,7 +4,7 @@ education:
   courses:
   - course: PhD in Statistics
     institution: UCLA
-    year: expected Winter 2022
+    year: expected July 2021
   - course: BS in Statistics
     institution: UCLA
     year: 2017
@@ -26,7 +26,7 @@ social:
   link: https://github.com/skahmann3
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/sydneykahmann/
+  link: https://www.linkedin.com/in/skahmann3/
 superuser: true
 ---
 

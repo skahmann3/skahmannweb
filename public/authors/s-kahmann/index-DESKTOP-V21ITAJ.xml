@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S Kahmann on Sydney Kahmann</title>
+    <link>/authors/s-kahmann/</link>
+    <description>Recent content in S Kahmann on Sydney Kahmann</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 01 Feb 2017 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="/authors/s-kahmann/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>R&amp;D, Attrition and Multiple Imputation in BRDIS</title>
+      <link>/publication/brdis/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 -0700</pubDate>
+      
+      <guid>/publication/brdis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhanced Data Exploration and Visualization Tool for Large Spatio-Temporal Climate Data</title>
+      <link>/publication/cmiviz/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/cmiviz/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

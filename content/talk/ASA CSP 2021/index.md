@@ -25,7 +25,7 @@ featured = false
 tags = []
 
 # Links (optional).
-# url_pdf = "files/CSPposter.pdf"
+url_pdf = "files/CSP_Presentation.pdf"
 
 # Does the content use math formatting?
 math = true
