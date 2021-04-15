@@ -14,5 +14,5 @@ publication_types:
 - "3"
 tags: []
 title: An Equivalence Test for Conditional Independence Hypotheses
-url_pdf: "files/equivalence_CI.pdf"
+url_pdf: "files/equivalence_CI_2.pdf"
 ---

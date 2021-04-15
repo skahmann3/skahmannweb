@@ -1,2 +1,2 @@
 blogdown::serve_site()
-servr::daemon_stop()
+blogdown::stop_server()
