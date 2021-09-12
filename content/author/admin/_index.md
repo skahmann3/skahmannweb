@@ -4,7 +4,7 @@ education:
   courses:
   - course: PhD in Statistics
     institution: UCLA
-    year: expected Summer 2021
+    year: 2021
   - course: BS in Statistics
     institution: UCLA
     year: 2017
@@ -13,14 +13,8 @@ interests:
 - Causal Inference
 - Applied Statistics
 name: Sydney Kahmann
-organizations:
-- name: UCLA
-  url: ""
-role: Ph.D. Candidate in Statistics
+role: Data Scientist | Statistics Ph.D.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'skahmann@ucla.edu'
 - icon: github
   icon_pack: fab
   link: https://github.com/skahmann3
@@ -30,9 +24,6 @@ social:
 superuser: true
 ---
 
-I’m a Statistics Ph.D. Candidate at UCLA funded as an NSF Graduate Research Fellow. Broadly, my research focuses on leveraging statistical methods to more credibly infer treatment effects and causal relationships.
+In 2021, I was awarded my Statistics Ph.D. from UCLA, receiving funding via the NSF Graduate Research Fellowship from 2019 onward. Broadly, my research focused on leveraging statistical methods to more credibly infer treatment effects and causal relationships.
 
 As a former statistical consultant, I am experienced in applying statistical and causal models to assess real-world impact. I earned my BS in Statistics from UCLA in 2017. In 2018, I co-founded the Society of Women in Statistics at UCLA, recognized and funded by UCLA and the Statistics Department.
-
-Aside from statistics, I am an avid board gamer, aspiring wood carver, and Oakland A’s fan.
-

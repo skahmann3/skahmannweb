@@ -28,7 +28,7 @@
   
     
   
-  <meta name="description" content="Conditional independence relationships serve as the foundation of many observational designs and model assumptions. When evaluating such assumptions, the researcher wishes to falsify their necessary claim, providing evidence in favor of conditional independence. However, current tests are designed to fail to reject, and therefore fail to find evidence against, the intended claim. In this work, I develop an equivalence-based conditional independence test wherein the researcher aims to reject a null of conditional dependence, thus corroborating conditional independence. This test is then applied to causal inference, providing placebo and falsification tests for the conditional ignorability assumption.">
+  <meta name="description" content="To justify the credibility of their causal designs, researchers are increasingly reporting the results of falsification analyses on the observable implications of their necessary causal assumptions. Traditional hypothesis testing procedures for these purposes are improperly formulated, therefore this work contributes to the growing body of research promoting equivalence-based tests for the falsification of causal assumptions (e.g. Hartman and Hidalgo, 2018; Hartman, 2020; Bilinski and Hatfield, 2018). To this end, I first present an empirical application with an emphasis on falsification testing (Chapter 2). In this chapter, augmented synthetic control methods are used to estimate the causal effect of a Los Angeles police reform policy, supplemented with falsification analyses to both strengthen the credibility of the design decisions and contextualize the significance of the results in context. The remainder of this work proposes equivalence-based tests. Chapter 3 develops an equivalence test for conditional independence hypotheses, paying particular attention to the interpretability and specification of the necessary equivalence range. Many causal designs require the conditional ignorability assumption, and thus balance testing is proposed as an application of this method. Chapter 4 takes a broader view of causal assumption evaluation. For a suite of common causal designs (selection on observables, mediation, difference-in-differences, regression discontinuity, synthetic control, and instrumental variables), I map the necessary causal assumptions to the testable observable implications, ultimately contrasting traditional falsification approaches to proposed equivalence-based alternatives. To conclude, Chapter 5 discusses the implications and limitations of this work with an emphasis on open questions in causal assumption evaluation.">
 
   
   <link rel="alternate" hreflang="en-us" href="https://skahmann3.github.io/publication/balance/">
@@ -118,20 +118,20 @@
   
   <meta property="og:site_name" content="Sydney Kahmann">
   <meta property="og:url" content="https://skahmann3.github.io/publication/balance/">
-  <meta property="og:title" content="An Equivalence Test for Conditional Independence Hypotheses | Sydney Kahmann">
-  <meta property="og:description" content="Conditional independence relationships serve as the foundation of many observational designs and model assumptions. When evaluating such assumptions, the researcher wishes to falsify their necessary claim, providing evidence in favor of conditional independence. However, current tests are designed to fail to reject, and therefore fail to find evidence against, the intended claim. In this work, I develop an equivalence-based conditional independence test wherein the researcher aims to reject a null of conditional dependence, thus corroborating conditional independence. This test is then applied to causal inference, providing placebo and falsification tests for the conditional ignorability assumption."><meta property="og:image" content="https://skahmann3.github.io/img/icon-192.png">
+  <meta property="og:title" content="Falsification Testing for Causal Design Assumptions | Sydney Kahmann">
+  <meta property="og:description" content="To justify the credibility of their causal designs, researchers are increasingly reporting the results of falsification analyses on the observable implications of their necessary causal assumptions. Traditional hypothesis testing procedures for these purposes are improperly formulated, therefore this work contributes to the growing body of research promoting equivalence-based tests for the falsification of causal assumptions (e.g. Hartman and Hidalgo, 2018; Hartman, 2020; Bilinski and Hatfield, 2018). To this end, I first present an empirical application with an emphasis on falsification testing (Chapter 2). In this chapter, augmented synthetic control methods are used to estimate the causal effect of a Los Angeles police reform policy, supplemented with falsification analyses to both strengthen the credibility of the design decisions and contextualize the significance of the results in context. The remainder of this work proposes equivalence-based tests. Chapter 3 develops an equivalence test for conditional independence hypotheses, paying particular attention to the interpretability and specification of the necessary equivalence range. Many causal designs require the conditional ignorability assumption, and thus balance testing is proposed as an application of this method. Chapter 4 takes a broader view of causal assumption evaluation. For a suite of common causal designs (selection on observables, mediation, difference-in-differences, regression discontinuity, synthetic control, and instrumental variables), I map the necessary causal assumptions to the testable observable implications, ultimately contrasting traditional falsification approaches to proposed equivalence-based alternatives. To conclude, Chapter 5 discusses the implications and limitations of this work with an emphasis on open questions in causal assumption evaluation."><meta property="og:image" content="https://skahmann3.github.io/img/icon-192.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2021-04-14T00:00:00-07:00">
+  <meta property="article:published_time" content="2021-09-10T00:00:00-07:00">
   
-  <meta property="article:modified_time" content="2021-04-14T00:00:00-07:00">
-  
-
+  <meta property="article:modified_time" content="2021-09-10T00:00:00-07:00">
   
 
   
 
-  <title>An Equivalence Test for Conditional Independence Hypotheses | Sydney Kahmann</title>
+  
+
+  <title>Falsification Testing for Causal Design Assumptions | Sydney Kahmann</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -243,44 +243,6 @@
         
         
 
-        
-
-        
-        
-        
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link" href="/#teaching">
-            
-            <span>Teaching</span>
-            
-          </a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link" href="/files/SKahmann_CV.pdf">
-            
-            <span>CV</span>
-            
-          </a>
-        </li>
-
-        
-        
-
       
 
         
@@ -318,7 +280,7 @@
   
   
 <div class="article-container pt-3">
-  <h1 itemprop="name">An Equivalence Test for Conditional Independence Hypotheses</h1>
+  <h1 itemprop="name">Falsification Testing for Causal Design Assumptions</h1>
 
   
 
@@ -342,9 +304,9 @@
 
   <span class="article-date">
     
-    <meta content="2021-04-14 00:00:00 -0700 PDT" itemprop="datePublished">
-    <time datetime="2021-04-14 00:00:00 -0700 PDT" itemprop="dateModified">
-      Apr 14, 2021
+    <meta content="2021-09-10 00:00:00 -0700 PDT" itemprop="datePublished">
+    <time datetime="2021-09-10 00:00:00 -0700 PDT" itemprop="dateModified">
+      Sep 10, 2021
     </time>
   </span>
   <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
@@ -393,7 +355,13 @@
 
 
   
+    
+  
 
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://escholarship.org/uc/item/0mp5j1gr" target="_blank" rel="noopener">
+  PDF
+</a>
 
 
 
@@ -427,7 +395,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">Conditional independence relationships serve as the foundation of many observational designs and model assumptions. When evaluating such assumptions, the researcher wishes to falsify their necessary claim, providing evidence in favor of conditional independence. However, current tests are designed to fail to reject, and therefore fail to find evidence against, the intended claim. In this work, I develop an equivalence-based conditional independence test wherein the researcher aims to reject a null of conditional dependence, thus corroborating conditional independence. This test is then applied to causal inference, providing placebo and falsification tests for the conditional ignorability assumption.</p>
+    <p class="pub-abstract" itemprop="text">To justify the credibility of their causal designs, researchers are increasingly reporting the results of falsification analyses on the observable implications of their necessary causal assumptions. Traditional hypothesis testing procedures for these purposes are improperly formulated, therefore this work contributes to the growing body of research promoting equivalence-based tests for the falsification of causal assumptions (e.g. Hartman and Hidalgo, 2018; Hartman, 2020; Bilinski and Hatfield, 2018). To this end, I first present an empirical application with an emphasis on falsification testing (Chapter 2). In this chapter, augmented synthetic control methods are used to estimate the causal effect of a Los Angeles police reform policy, supplemented with falsification analyses to both strengthen the credibility of the design decisions and contextualize the significance of the results in context. The remainder of this work proposes equivalence-based tests. Chapter 3 develops an equivalence test for conditional independence hypotheses, paying particular attention to the interpretability and specification of the necessary equivalence range. Many causal designs require the conditional ignorability assumption, and thus balance testing is proposed as an application of this method. Chapter 4 takes a broader view of causal assumption evaluation. For a suite of common causal designs (selection on observables, mediation, difference-in-differences, regression discontinuity, synthetic control, and instrumental variables), I map the necessary causal assumptions to the testable observable implications, ultimately contrasting traditional falsification approaches to proposed equivalence-based alternatives. To conclude, Chapter 5 discusses the implications and limitations of this work with an emphasis on open questions in causal assumption evaluation.</p>
     
 
     
@@ -458,7 +426,7 @@
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Date</div>
           <div class="col-12 col-md-9" itemprop="datePublished">
-            April, 2021
+            September, 2021
           </div>
         </div>
       </div>
